@@ -1,4 +1,4 @@
-# Data-Analytics-End-to-End-Project-Hospital-s-Performance-Tracker
+# Data Analytics | End-to-End-Project | Hospital's Performance Tracker
 
 #Excel + PowerBI
 #-using excel performed data cleaning and filtering
